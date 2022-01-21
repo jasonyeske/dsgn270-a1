@@ -4,12 +4,15 @@
 
 ### Youtube
    #### Youtube is a social network where users can share and edit videos for others to watch
-
+ 
+ ## User stories
 - as a student, I want to watch a how to video so I can further understand an assignment
 - as a creator, I want to upload a video so I can expand my audience and make more ad revenue
 - As a user, I want to upgrade to youtube premium so I no longer have to watch advertisements
 
-### As a user, I want to upgrade my account to youtube premium so I no longer have to watch advertisements
+
+# Task Flow
+### Story: As a user, I want to upgrade my account to youtube premium so I no longer have to watch advertisements
 
 1. User navigates to main page using a browser search
 2. User taps character icon, new menu appears
