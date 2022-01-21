@@ -1,7 +1,8 @@
 # Wireframe Assignment 1
 
 ### Youtube
-   
+   #### Youtube is a social network where users can share and edit videos for others to watch
+
 - as a student, I want to watch a how to video so I can further understand an assignment
 - as a creator, I want to upload a video so I can expand my audience and make more ad revenue
 - As a user, I want to upgrade to youtube premium so I no longer have to watch advertisements
@@ -18,3 +19,5 @@
 8. User adds payment method
 9. User taps buy
 10. Success!
+
+[My wireframe iamge](https://www.figma.com/file/EIVzahfg1P26KcYpzAhCv3/dsgn270-a1?node-id=0%3A1)
