@@ -22,4 +22,4 @@
 9. User taps buy
 10. Success!
 
-! [My wireframe image](https://www.figma.com/file/EIVzahfg1P26KcYpzAhCv3/dsgn270-a1?node-id=0%3A1)
+ ![My wireframe image](/images/wireframe.png)
