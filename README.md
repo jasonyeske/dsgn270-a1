@@ -17,3 +17,4 @@
 7. User taps "Get youtube premium"
 8. User adds payment method
 9. User taps buy
+10. Success!
