@@ -23,3 +23,5 @@
 10. Success!
 
  ![My wireframe image](/images/wireframe.png)
+
+ - link to figma page: https://www.figma.com/file/EIVzahfg1P26KcYpzAhCv3/dsgn270-a1
